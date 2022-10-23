@@ -1,0 +1,7 @@
+https://docs.uipath.com/activities/docs/read-from-excel-files
+https://www.youtube.com/watch?v=QzuxAVa9FN4
+https://docs.uipath.com/studio/docs/managing-variables
+https://www.youtube.com/watch?v=DwOOc8Hb1ho
+https://docs.uipath.com/activities/docs/ui-element-exists
+https://forum.uipath.com/t/the-ui-element-is-invalid-make-sure-the-target-application-is-open-and-the-element-is-on-the-screen/443828
+https://docs.uipath.com/activities/docs/n-check-state
