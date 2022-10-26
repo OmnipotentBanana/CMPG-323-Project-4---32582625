@@ -11,10 +11,15 @@ https://docs.uipath.com/studiox/v2019/docs/type-into
 https://docs.uipath.com/studiox/v2019/docs/get-text
 https://docs.uipath.com/studiox/v2019/docs/tutorial-extracting-table-data-from-a-web-page-and-editing-it-in-excel
 https://docs.uipath.com/studiox/v2019/docs/excel-automation
+https://forum.uipath.com/t/to-save-an-excel-file-just-generated-by-rpa/360583
 https://docs.uipath.com/activities/docs/update-chart-x
 https://docs.uipath.com/activities/docs/n-extract-data
 https://www.youtube.com/watch?v=s6FTqeiefu8
 https://www.codeproject.com/Questions/1201915/How-to-get-the-datarow-value-from-datatable-in-Csh
+https://forum.uipath.com/t/how-to-save-and-saveas-the-excel-file/191816
 https://rpalearners.com/how-to-update-a-row-item-in-a-datatable-using-uipath/
 https://docs.uipath.com/activities/docs/write-range-x
 https://forum.uipath.com/t/read-excel-and-convert-to-data-table/230562
+https://forum.uipath.com/t/how-to-select-an-element-from-dropdown/77887/13
+https://stackoverflow.com/questions/66434130/how-do-to-get-dropdown-value-using-uipath
+https://docs.uipath.com/activities/docs/select-item
